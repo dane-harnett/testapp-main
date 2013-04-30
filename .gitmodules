@@ -1,0 +1,6 @@
+[submodule "resources/fcau/mvc"]
+	path = resources/fcau/mvc
+	url = https://dane-harnett@github.com/dane-harnett/testapp-core.git
+[submodule "resources/auet/mvc"]
+	path = resources/auet/mvc
+	url = https://dane-harnett@github.com/dane-harnett/testapp-core.git
